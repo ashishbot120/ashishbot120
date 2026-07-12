@@ -42,15 +42,15 @@ Welcome to my GitHub profile! I'm a Computer Engineering student and an aspiring
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishbot120&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbot120&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[ashishbot120]&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ashishbot120]&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashishwaghode)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-waghode)
 - 💌 [Email](mailto:ashishwaghode@gmail.com)
 
 ---
