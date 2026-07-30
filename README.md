@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.jpeg" width="100%" alt="header banner" />
+  <img src="./profile-banner.png" width="100%" alt="header banner" />
 </p>
 
 <h2 align="center">Backend Engineer | AI Infra & Distributed Systems</h2>
