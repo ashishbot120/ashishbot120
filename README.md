@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=304263&amp;height=220&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Ashish%20%F0%9F%91%8B&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20and%20AI%20Infra%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=e8e8e8" alt="header banner" />
+  <img src="./profile-banner.jpeg" width="100%" alt="header banner" />
 </p>
 
 <h2 align="center">Backend Engineer | AI Infra & Distributed Systems</h2>
@@ -20,7 +20,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,vscode,vercel,github&amp;perline=8">
+<img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,vscode,vercel,github&perline=8">
 </p>
 
 <br>
@@ -61,19 +61,19 @@
   <tr>
     <td width="50%">
       <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbot120&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbot120&show_icons=true&theme=nightowl" alt="GitHub Stats">
       </p>
     </td>
     <td width="50%">
       <p align="center">
-        <img align="center" src="https://streak-stats.demolab.com?user=ashishbot120&amp;theme=nightowl" alt="Streak Stats">
+        <img align="center" src="https://streak-stats.demolab.com?user=ashishbot120&theme=nightowl" alt="Streak Stats">
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbot120&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" alt="contribution graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbot120&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="contribution graph">
 </div>
 
 <hr>
@@ -81,19 +81,19 @@
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/ashish-waghode-8b6587287" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 <a href="mailto:ashishwaghode1301@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="email">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 </a>
 <a href="https://github.com/ashishbot120" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
 </a>
 <a href="https://portfolio-seven-tau-qsswkw92h3.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-304263?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="portfolio">
+<img src="https://img.shields.io/badge/Portfolio-304263?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio">
 </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer&amp;v=1" alt="footer banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&v=1" alt="footer banner">
 </p>
